@@ -1,0 +1,21 @@
+{
+  "version": 1,
+  "skills": {
+    "duckduckgo-search": {
+      "version": "1.0.0",
+      "installedAt": 1770456816392
+    },
+    "crypto-price": {
+      "version": "0.2.2",
+      "installedAt": 1770457131925
+    },
+    "binance-pro": {
+      "version": "1.0.0",
+      "installedAt": 1770457402531
+    },
+    "web-search-exa": {
+      "version": "1.0.1",
+      "installedAt": 1770459551347
+    }
+  }
+}
